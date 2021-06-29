@@ -1,0 +1,372 @@
+.MuiTypography-root {
+  margin: 0;
+}
+.MuiTypography-body2 {
+  font-size: 0.875rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+  font-weight: 400;
+  line-height: 1.43;
+}
+.MuiTypography-body1 {
+  font-size: 1rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.MuiTypography-caption {
+  font-size: 0.75rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+  font-weight: 400;
+  line-height: 1.66;
+}
+.MuiTypography-button {
+  font-size: 0.875rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+  font-weight: 500;
+  line-height: 1.75;
+  text-transform: uppercase;
+}
+.MuiTypography-h1 {
+  font-size: 3.5rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+  font-weight: 300;
+  line-height: 1.167;
+}
+@media (min-width:600px) {
+  .MuiTypography-h1 {
+    font-size: 4.7129rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h1 {
+    font-size: 5.3556rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h1 {
+    font-size: 5.9983rem;
+  }
+}
+  .MuiTypography-h2 {
+    font-size: 2.375rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 300;
+    line-height: 1.2;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h2 {
+    font-size: 2.9167rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h2 {
+    font-size: 3.3333rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h2 {
+    font-size: 3.75rem;
+  }
+}
+  .MuiTypography-h3 {
+    font-size: 2rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 400;
+    line-height: 1.167;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h3 {
+    font-size: 2.5707rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h3 {
+    font-size: 2.7849rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h3 {
+    font-size: 2.9991rem;
+  }
+}
+  .MuiTypography-h4 {
+    font-size: 1.5625rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 400;
+    line-height: 1.235;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h4 {
+    font-size: 1.8219rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h4 {
+    font-size: 2.0243rem;
+  }
+}
+  .MuiTypography-h5 {
+    font-size: 1.25rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 400;
+    line-height: 1.334;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h5 {
+    font-size: 1.3118rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h5 {
+    font-size: 1.4993rem;
+  }
+}
+  .MuiTypography-h6 {
+    font-size: 1.125rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 500;
+    line-height: 1.6;
+  }
+@media (min-width:600px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:960px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width:1280px) {
+  .MuiTypography-h6 {
+    font-size: 1.25rem;
+  }
+}
+  .MuiTypography-subtitle1 {
+    font-size: 1rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 400;
+    line-height: 1.75;
+  }
+  .MuiTypography-subtitle2 {
+    font-size: 0.875rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 500;
+    line-height: 1.57;
+  }
+  .MuiTypography-overline {
+    font-size: 0.75rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+    font-weight: 400;
+    line-height: 2.66;
+    text-transform: uppercase;
+  }
+  .MuiTypography-srOnly {
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+  }
+  .MuiTypography-alignLeft {
+    text-align: left;
+  }
+  .MuiTypography-alignCenter {
+    text-align: center;
+  }
+  .MuiTypography-alignRight {
+    text-align: right;
+  }
+  .MuiTypography-alignJustify {
+    text-align: justify;
+  }
+  .MuiTypography-noWrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .MuiTypography-gutterBottom {
+    margin-bottom: 0.35em;
+  }
+  .MuiTypography-paragraph {
+    margin-bottom: 16px;
+  }
+  .MuiTypography-colorInherit {
+    color: inherit;
+  }
+  .MuiTypography-colorPrimary {
+    color: #FEF9C7;
+  }
+  .MuiTypography-colorSecondary {
+    color: #FCE181;
+  }
+  .MuiTypography-colorTextPrimary {
+    color: #264653;
+  }
+  .MuiTypography-colorTextSecondary {
+    color: #2a9d8f;
+  }
+  .MuiTypography-colorError {
+    color: #f44336;
+  }
+  .MuiTypography-displayInline {
+    display: inline;
+  }
+  .MuiTypography-displayBlock {
+    display: block;
+  }
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+strong, b {
+  font-weight: 700;
+}
+body {
+  color: #264653;
+  margin: 0;
+  font-size: 0.875rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto;
+  font-weight: 400;
+  line-height: 1.43;
+  background-color: #fff;
+}
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+body::backdrop {
+  background-color: #fff;
+}
+@font-face {
+  0: Arial;
+  1: Verdana;
+  2: Helvetica;
+  3: Tahoma;
+  4: Trebuchet MS;
+  5: Times New Roman;
+  6: Georgia;
+  7: Garamond;
+  8: Courier New;
+  9: Brush Script MT;
+  10: LiquidCrystal;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-Normal'),
+  url(/static/media/LiquidCrystal-Normal.f388bf69.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-NormalItalic'),
+  url(/static/media/LiquidCrystal-NormalItalic.615622e6.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-Bold'),
+  url(/static/media/LiquidCrystal-Bold.c84b4328.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-Light'),
+  url(/static/media/LiquidCrystal-Light.50eef454.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 300;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-LightItalic'),
+  url(/static/media/LiquidCrystal-LightItalic.e3e9bde9.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 500;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-BoldItalic'),
+  url(/static/media/LiquidCrystal-BoldItalic.a30e37ed.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-ExBold'),
+  url(/static/media/LiquidCrystal-ExBold.9d97e8f2.woff2) format('woff2')
+  ;
+}
+@font-face {
+  font-family: LiquidCrystal;
+  font-style: normal;
+  font-display: swap;
+  font-weight: 600;
+  src: 
+  local('LiquidCrystal'),
+  local('LiquidCrystal-ExBoldItalic'),
+  url(/static/media/LiquidCrystal-ExBoldItalic.de63aaa0.woff2) format('woff2')
+  ;
+}
+
+  .jss4 {  }
+  .jss1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .jss2 {
+    display: block;
+  }
+  .jss3 {
+    width: max-content;
+    opacity: 75%;
+    padding: 15%;
+    background-color: #FFFFFF;
+  }
